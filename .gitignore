@@ -1,1 +1,4 @@
-data_*
+secret.js
+node_modules
+data_* # input phone number data
+out* # output phone number data

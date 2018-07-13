@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/ryanjamesmcgill/callerLookup/issues"
   },
-  "homepage": "https://github.com/ryanjamesmcgill/callerLookup#readme"
+  "homepage": "https://github.com/ryanjamesmcgill/callerLookup#readme",
+  "dependencies": {
+    "async": "^2.6.1",
+    "csv-parse": "^2.5.0",
+    "request": "^2.87.0"
+  }
 }
