@@ -1,0 +1,19 @@
+{
+  "name": "caller-name",
+  "version": "1.0.0",
+  "description": "look up phone numbers with twilio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanjamesmcgill/callerLookup.git"
+  },
+  "author": "Ryan McGill <ryanjamesmcgill@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanjamesmcgill/callerLookup/issues"
+  },
+  "homepage": "https://github.com/ryanjamesmcgill/callerLookup#readme"
+}
